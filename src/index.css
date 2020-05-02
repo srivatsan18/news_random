@@ -1,0 +1,56 @@
+
+.header-content {
+  font-size: 30px;
+  padding: 10px;
+  color: white;
+}
+.main {
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  color:white;
+  background-color:black;
+}
+a
+{
+  color:white;
+}
+.img
+{
+  position: absolute;
+  height: 80px;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  margin-right: 20px;
+  float: left;
+  float: right;
+  
+}
+.header
+{
+ 
+  justify-content: center;
+  
+}
+.random
+{
+  position: absolute;
+  display: flex;
+  float: right;
+  margin-top:2px;
+  margin-left: 620px;
+  float: left;
+}
+.combined
+{ 
+  height: 100px;
+  background-color: purple;
+  display: flex;
+  border: 2px solid white;
+
+}
+
